@@ -1,0 +1,10 @@
+https://api2.tigoenergy.com/api/v3/data/aggregate?system_id=9619&start=2024-03-01T00:00:00&end=2024-11-09T23:59:59&level=day&param=Pin
+(granular)
+---
+https://api2.tigoenergy.com/api/v3/data/combined?system_id=9619&start=2024-03-01T00:00:00&end=2024-12-31T23:59:59&level=year
+(sum by year)
+---
+https://api2.tigoenergy.com/api/v3/data/summary?system_id=9619
+---
+https://api2.tigoenergy.com/api/v3/objects/system?system_id=9619
+(sys info)
